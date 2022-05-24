@@ -1,9 +1,7 @@
 # kadernictvi-ostrava
 ## TODO
-* linky phone, mapa
+* mapa RU
 * fotky
-* cenik table  + zarovnat
 * dodelat text
 * mozna logo
-* mozna mezery u footeru
 * mozna social media etc.
